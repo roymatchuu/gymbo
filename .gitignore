@@ -10,3 +10,32 @@ __pycache__/
 .venv/
 venv/
 env/
+
+# ignore layer files
+discord_bot_layer.zip
+temp_layer/
+
+# Locally installed packages (for Lambda deployment package)
+requests/
+requests-*.dist-info/
+urllib3/
+urllib3-*.dist-info/
+idna/
+idna-*.dist-info/
+charset_normalizer/
+charset_normalizer-*.dist-info/
+certifi/
+certifi-*.dist-info/
+cffi/
+cffi-*.dist-info/
+pycparser/
+pycparser-*.dist-info/
+nacl/
+pynacl-*.dist-info/
+yaml/
+_yaml/
+pyyaml-*.dist-info/
+bin/
+*.so
+_cffi_backend.cpython*
+81d243bd2c585b0f4821__mypyc.cpython*
