@@ -1,0 +1,12 @@
+# Ignore sensitive local configuration
+config.py
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment files
+.venv/
+venv/
+env/
