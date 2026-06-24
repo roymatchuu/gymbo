@@ -1,5 +1,7 @@
 # Ignore sensitive local configuration
 config.py
+register_commands.py
+populate_db.py
 
 # Python byte-compiled files
 __pycache__/

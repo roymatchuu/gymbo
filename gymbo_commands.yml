@@ -3,3 +3,15 @@
 
 - name: ping
   description: Responds with Pong!
+
+- name: push
+  description: Display your Push Day workout template.
+
+- name: pull
+  description: Display your Pull Day workout template.
+
+- name: legs
+  description: Display your Legs Day workout template.
+
+- name: focus
+  description: Display your Focus Day workout template.
